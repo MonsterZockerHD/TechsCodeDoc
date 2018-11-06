@@ -2525,6 +2525,10 @@ hr {
       [dir="rtl"] .md-footer-social {
         float: left; } }
 
+.editText {
+  font-size: 13pt;
+}
+
 @media only screen and (max-width: 29.9375em) {
     [data-md-toggle="search"]:checked ~ .md-header .md-search__overlay {
       -webkit-transform: scale(45);

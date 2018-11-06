@@ -1,5 +1,8 @@
 site_name: Tech's Plugin Documentation
 
+repo_name: '/techscode/TechsCodeDoc'
+repo_url: 'https://github.com/techscode/techscodedoc'
+
 copyright: 'Copyright &copy; 2018 TechsCode'
 
 theme:
@@ -19,6 +22,9 @@ theme:
 
   feature:
     tabs: true
+
+markdown_extensions:
+  - admonition
 
 extra:
   social:
