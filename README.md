@@ -1,7 +1,7 @@
 # TechsCodeDoc
 This repository holds the Plugin Documentation of Tech's Spigot Plugins. http://techsco.de
 
-Files: [Click here](https://github.com/TechsCode/TechsCodeDoc/tree/master/docs)
+Text Files: [Click here](https://github.com/TechsCode/TechsCodeDoc/tree/master/docs)
 
 ## Contributing
 
