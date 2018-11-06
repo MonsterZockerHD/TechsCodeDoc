@@ -1,0 +1,30 @@
+site_name: Tech's Plugin Documentation
+
+copyright: 'Copyright &copy; 2018 TechsCode'
+
+theme:
+  name: null
+  custom_dir: 'theme'
+  language: 'en'
+
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+
+  logo: 'images/logo.png'
+
+  feature:
+    tabs: true
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/techscode'
+    - type: 'twitter'
+      link: 'https://twitter.com/techscode'
+    - type: 'instagram'
+      link: 'https://instagram.com/techscodes'
