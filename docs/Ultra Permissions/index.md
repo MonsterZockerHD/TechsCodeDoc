@@ -11,17 +11,17 @@ All of these commands can only be used either with the console or as a *superadm
 * `/uperms` for the GUI
 
 Other Commands:
-  * `/upc addGroup <Player> <GroupName> (Time 3h, 10d)`
-  * `/upc addGroupPermission <Group> <Permission>` *(Options)*
-  * `/upc addPlayerPermission <Player> <Permission>` *(Options)*
-  * `/upc addSuperadmin <Player>`
-  * `/upc removeGroup <Player> <GroupName>`
-  * `/upc removeGroupPermission <Group> <Permission>`
-  * `/upc removePlayerPermission <Player> <Permission>`
-  * `/upc removeSuperadmin <Player>`
-  * `/upc transfer (From <File / MySQL>) (To <File / MySQL>)`
+* `/upc addGroup <Player> <GroupName> (Time 3h, 10d)`
+* `/upc addGroupPermission <Group> <Permission>` ==(Options)==
+* `/upc addPlayerPermission <Player> <Permission>` ==(Options)==
+* `/upc addSuperadmin <Player>`
+* `/upc removeGroup <Player> <GroupName>`
+* `/upc removeGroupPermission <Group> <Permission>`
+* `/upc removePlayerPermission <Player> <Permission>`
+* `/upc removeSuperadmin <Player>`
+* `/upc transfer (From <File / MySQL>) (To <File / MySQL>)`
 
-*(Options)* means that you can add additional options seen below. You seperate each option with a space.
+==(Options)== means that you can add additional options seen below. You seperate each option with a space.
 
  - Time ex. `1d 4h 3m` (d = day, h = hour, m = minute)
  - `bungee` (Will be applied as a Bungee Permission)
