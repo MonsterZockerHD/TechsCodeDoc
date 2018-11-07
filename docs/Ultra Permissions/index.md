@@ -2,7 +2,7 @@
 
 ## What is Ultra Permissions?
 
-UltraPermissions is a next level permissions system that can be fully controlled via GUI's ingame. It is able to suggest you permissions based on installed plugins so you no longer have to search the internet for those! 
+UltraPermissions is a next level permissions system that can be fully controlled via GUI's ingame. It is able to suggest you permissions based on installed plugins so you no longer have to search the internet for those!
 
 ## Commands
 
@@ -10,10 +10,11 @@ All of these commands can only be used either with the console or as a *superadm
 
 * `/uperms` for the GUI
 
-Other Commands:
+Other Commands (<small>These can be used for Buycraft</small>):
+
 * `/upc addGroup <Player> <GroupName> (Time 3h, 10d)`
-* `/upc addGroupPermission <Group> <Permission>` ==(Options)==
-* `/upc addPlayerPermission <Player> <Permission>` ==(Options)==
+* `/upc addGroupPermission <Group> <Permission>` *(Options)*
+* `/upc addPlayerPermission <Player> <Permission>` *(Options)*
 * `/upc addSuperadmin <Player>`
 * `/upc removeGroup <Player> <GroupName>`
 * `/upc removeGroupPermission <Group> <Permission>`
@@ -21,7 +22,9 @@ Other Commands:
 * `/upc removeSuperadmin <Player>`
 * `/upc transfer (From <File / MySQL>) (To <File / MySQL>)`
 
-==(Options)== means that you can add additional options seen below. You seperate each option with a space.
+---
+
+*(Options)* means that you can add additional options seen below. You seperate each option with a space.
 
  - Time ex. `1d 4h 3m` (d = day, h = hour, m = minute)
  - `bungee` (Will be applied as a Bungee Permission)
