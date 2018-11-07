@@ -5,7 +5,7 @@ Ultra Permissions can be used for a single Minecraft Server as well as for multi
 ## Regular Install
 
 !!! tip
-    You used a different Permissions Plugin before? Ultra Permissions allows you to [migrate]("#") your existing data!
+    You used a different Permissions Plugin before? Ultra Permissions allows you to [migrate](http://new.techsco.de/Ultra%20Permissions/migrate/) your existing data!
 
 Drop your `UltraPermissions.jar` into your plugins directory and restart your server.
 
