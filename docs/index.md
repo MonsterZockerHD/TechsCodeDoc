@@ -1,6 +1,6 @@
 # General
 
-This is the full documentation of [Tech's Spigot Plugins](https://www.spigotmc.org/resources/authors/techscode.29620/). This documentation is currently a work in progress project so keep in mind that there might be infos missing.
+This is the full documentation of [Tech's Spigot Plugins](https://www.spigotmc.org/resources/authors/techscode.29620/). This documentation is currently a work in progress project so keep in mind that there might be some info missing.
 Please visit our [Discord](https://discord.gg/GmuPTqb) if you would like to get in touch with us.
 
 ## Before asking for Support
